@@ -1,4 +1,4 @@
-this is exam in aloware
+this is exam in aloware by reynard catindig
 
 # RUN THE FOLLOWING COMMAND
 
