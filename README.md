@@ -1,3 +1,5 @@
+this is exam in aloware
+
 # RUN THE FOLLOWING COMMAND
 
 ## cp .env.example .env
